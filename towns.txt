@@ -1,3 +1,12 @@
 Amesbury, MA
-York, PAtowns.txt
+York, PA
+Brooklyn, NY
+Wayland, MA
+Georgetown, ME
+Scottsdale, AZ
+New York, NY 
+Nazareth, PA
+Newington, CT
+Brooklyn, NY 
+Oakland, CA
 Havertown, PA
